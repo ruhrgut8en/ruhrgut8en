@@ -1,43 +1,48 @@
 ```text
-+======================================================================+
-|                                                                      |
-|                 R U H R G U T A C H T E N                            |
-|                 --------------------------                           |
-|                                                                      |
-|       D I G I T A L E   K L A R H E I T                              |
-|       F U E R   K F Z - G U T A C H T E N                            |
-|                                                                      |
-+======================================================================+
+       .  .   .    .      .       .   .    .
+   .       .     .    .       .      .      .
+
+    RRRR   U   U  H   H  RRRR    GGG   U   U  TTTTT   AAA   CCC  H   H  TTTTT  EEEEE  N   N
+    R   R  U   U  H   H  R   R  G      U   U    T    A   A C     H   H    T    E      NN  N
+    RRRR   U   U  HHHHH  RRRR   G  GG  U   U    T    AAAAA C     HHHHH    T    EEEE   N N N
+    R R    U   U  H   H  R R    G   G  U   U    T    A   A C     H   H    T    E      N  NN
+    R  RR   UUU   H   H  R  RR   GGG    UUU     T    A   A  CCC  H   H    T    EEEEE  N   N
+
+   .      .    .       .     .      .     .      .
+        .      .   .      .      .      .     .
 ```
 
 ```text
-                         ______
-                    ____/|_||_\`.__
-                   (   _    _ _   _  \
-                   =`-(_)--(_)-'---'
+                              ______________________
+                         ____/|_||_\\`.__           \\
+                        (   _    _ _    _\           _)
+                        =`-(_)--(_)-'---'-----------'
+
+                         /  DIGITAL CLARITY  /  RUHRGEBIET  /
 ```
 
-# Klarheit beginnt mit einem sauberen Blick auf den Schaden.
+Klarheit beginnt mit einem sauberen Blick auf den Schaden.
 
-Ich entwickle digitale Werkzeuge fuer nachvollziehbare Kfz-Gutachten:
-reduziert auf das Wesentliche, sorgfaeltig dokumentiert und fuer den
-naechsten Schritt nutzbar.
+Digitale Werkzeuge fuer nachvollziehbare Kfz-Gutachten.
+Reduziert auf das Wesentliche. Sorgfaeltig dokumentiert.
 
 ```text
-+--------------------+-------------------------------------------------+
-|  01  ERFASSEN      |  Schaden, Daten und Fakten strukturiert erfassen |
-|  02  PRUEFEN       |  Details sichtbar und nachvollziehbar machen     |
-|  03  DOKUMENTIEREN |  Ergebnisse klar und belastbar festhalten        |
-+--------------------+-------------------------------------------------+
+       /\\         /\\         /\\
+      /  \\       /  \\       /  \\       SCHADEN
+     / /\\ \\     / /\\ \\     / /\\ \\      . . .
+    /_/  \\_\\   /_/  \\_\\   /_/  \\_\\     ERFASSEN
+
+       ||          ||          ||
+       ||----------||----------||     PRUEFEN
+       ||          ||          ||
+       ||          ||          ||     DOKUMENTIEREN
 ```
 
 ```text
-+----------------------------------------------------------------------+
-|                                                                      |
-|  EIN GUTES GUTACHTEN ZEIGT NICHT NUR, WAS PASSIERT IST.              |
-|  ES GIBT ORIENTIERUNG FUER DAS, WAS DANACH KOMMT.                    |
-|                                                                      |
-+----------------------------------------------------------------------+
+  ------------------------------------------------------------------
+  EIN GUTES GUTACHTEN ZEIGT NICHT NUR, WAS PASSIERT IST.
+  ES GIBT ORIENTIERUNG FUER DAS, WAS DANACH KOMMT.
+  ------------------------------------------------------------------
 ```
 
-> PRAKTISCH / UNABHAENGIG / RUHRGEBIET
+`PRAKTISCH / UNABHAENGIG / RUHRGEBIET`
