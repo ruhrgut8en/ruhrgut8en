@@ -1,20 +1,36 @@
-# Ruhrgutachten
+```text
++----------------------------------------------------------------+
+|  RUHRGUTACHTEN                                                 |
+|  DIGITALE WERKZEUGE FUER KLARE KFZ-GUTACHTEN                   |
++----------------------------------------------------------------+
+|                                                                |
+|   [ SCHADEN ] --> [ PRUEFEN ] --> [ DOKUMENTIEREN ]            |
+|                                                                |
++----------------------------------------------------------------+
+```
 
-Digitale Werkzeuge und Automatisierung für nachvollziehbare Kfz-Gutachten.
+# Klarheit nach dem Unfall.
 
-## Woran ich arbeite
+Unabhaengige digitale Werkzeuge und Automatisierung fuer
+nachvollziehbare Kfz-Gutachten im Ruhrgebiet.
 
-- Automatisierung wiederkehrender Arbeitsschritte im Gutachtenprozess
-- Digitale Schnittstellen, Datenaufbereitung und interne Werkzeuge
-- Robuste Webanwendungen mit klarem Praxisnutzen
+```text
++---------------------------+------------------------------------+
+| WOFUER ICH ARBEITE        | WIE ICH ARBEITE                    |
++---------------------------+------------------------------------+
+| - Wiederkehrende Schritte | - Praktisch                        |
+|   einfacher machen        | - Nachvollziehbar                 |
+| - Daten klar aufbereiten  | - Kontinuierlich verbessert        |
+| - Digitale Prozesse       |                                    |
+|   verlaesslich gestalten  |                                    |
++---------------------------+------------------------------------+
+```
 
-## Ausgewählte Projekte
+```text
+  +------------------------------------------------------------+
+  |  EIN GUTES GUTACHTEN MACHT NICHT NUR SCHADEN SICHTBAR.    |
+  |  ES SCHAFFT EINE KLARE GRUNDLAGE FUER DEN NAECHSTEN SCHRITT. |
+  +------------------------------------------------------------+
+```
 
-- **ruhrgutachten-landing** – Webauftritt von Ruhrgutachten
-- **payment-status-extension** – Baustein für transparente Zahlungsstatus-Workflows
-
-## Arbeitsprinzip
-
-Praktisch. Nachvollziehbar. Kontinuierlich verbessert.
-
-> Öffentliche Repositories zeigen ausgewählte technische Bausteine. Interne Werkzeuge bleiben bewusst privat.
+> Praktisch. Unabhaengig. Im Ruhrgebiet.
