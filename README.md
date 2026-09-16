@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ruhrgutachten
 
-<!--
-**ruhrgut8en/ruhrgut8en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digitale Werkzeuge und Automatisierung für nachvollziehbare Kfz-Gutachten.
 
-Here are some ideas to get you started:
+## Woran ich arbeite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Automatisierung wiederkehrender Arbeitsschritte im Gutachtenprozess
+- Digitale Schnittstellen, Datenaufbereitung und interne Werkzeuge
+- Robuste Webanwendungen mit klarem Praxisnutzen
+
+## Ausgewählte Projekte
+
+- **ruhrgutachten-landing** – Webauftritt von Ruhrgutachten
+- **payment-status-extension** – Baustein für transparente Zahlungsstatus-Workflows
+
+## Arbeitsprinzip
+
+Praktisch. Nachvollziehbar. Kontinuierlich verbessert.
+
+> Öffentliche Repositories zeigen ausgewählte technische Bausteine. Interne Werkzeuge bleiben bewusst privat.
