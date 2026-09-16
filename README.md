@@ -1,36 +1,43 @@
 ```text
-+----------------------------------------------------------------+
-|  RUHRGUTACHTEN                                                 |
-|  DIGITALE WERKZEUGE FUER KLARE KFZ-GUTACHTEN                   |
-+----------------------------------------------------------------+
-|                                                                |
-|   [ SCHADEN ] --> [ PRUEFEN ] --> [ DOKUMENTIEREN ]            |
-|                                                                |
-+----------------------------------------------------------------+
-```
-
-# Klarheit nach dem Unfall.
-
-Unabhaengige digitale Werkzeuge und Automatisierung fuer
-nachvollziehbare Kfz-Gutachten im Ruhrgebiet.
-
-```text
-+---------------------------+------------------------------------+
-| WOFUER ICH ARBEITE        | WIE ICH ARBEITE                    |
-+---------------------------+------------------------------------+
-| - Wiederkehrende Schritte | - Praktisch                        |
-|   einfacher machen        | - Nachvollziehbar                 |
-| - Daten klar aufbereiten  | - Kontinuierlich verbessert        |
-| - Digitale Prozesse       |                                    |
-|   verlaesslich gestalten  |                                    |
-+---------------------------+------------------------------------+
++======================================================================+
+|                                                                      |
+|                 R U H R G U T A C H T E N                            |
+|                 --------------------------                           |
+|                                                                      |
+|       D I G I T A L E   K L A R H E I T                              |
+|       F U E R   K F Z - G U T A C H T E N                            |
+|                                                                      |
++======================================================================+
 ```
 
 ```text
-  +------------------------------------------------------------+
-  |  EIN GUTES GUTACHTEN MACHT NICHT NUR SCHADEN SICHTBAR.    |
-  |  ES SCHAFFT EINE KLARE GRUNDLAGE FUER DEN NAECHSTEN SCHRITT. |
-  +------------------------------------------------------------+
+                         ______
+                    ____/|_||_\`.__
+                   (   _    _ _   _  \
+                   =`-(_)--(_)-'---'
 ```
 
-> Praktisch. Unabhaengig. Im Ruhrgebiet.
+# Klarheit beginnt mit einem sauberen Blick auf den Schaden.
+
+Ich entwickle digitale Werkzeuge fuer nachvollziehbare Kfz-Gutachten:
+reduziert auf das Wesentliche, sorgfaeltig dokumentiert und fuer den
+naechsten Schritt nutzbar.
+
+```text
++--------------------+-------------------------------------------------+
+|  01  ERFASSEN      |  Schaden, Daten und Fakten strukturiert erfassen |
+|  02  PRUEFEN       |  Details sichtbar und nachvollziehbar machen     |
+|  03  DOKUMENTIEREN |  Ergebnisse klar und belastbar festhalten        |
++--------------------+-------------------------------------------------+
+```
+
+```text
++----------------------------------------------------------------------+
+|                                                                      |
+|  EIN GUTES GUTACHTEN ZEIGT NICHT NUR, WAS PASSIERT IST.              |
+|  ES GIBT ORIENTIERUNG FUER DAS, WAS DANACH KOMMT.                    |
+|                                                                      |
++----------------------------------------------------------------------+
+```
+
+> PRAKTISCH / UNABHAENGIG / RUHRGEBIET
