@@ -1,17 +1,22 @@
 <div align="center">
-
-# Ruhrgutachten
-
-**Digitale Werkzeuge für nachvollziehbare Kfz-Gutachten und technische Arbeitsabläufe.**
-
-Recherche · Dokumentation · Automatisierung
-
+  <img src="assets/readme/ruhrgutachten-cover.svg" alt="Titelillustration: stilisierte Fahrzeugkontur und technische Prüflinien in dunklem Petrol mit Sand- und Türkisakzenten" width="100%">
 </div>
 
-## Schwerpunkte
+<h1 align="center">Digitale Werkzeuge für nachvollziehbare Kfz-Gutachten</h1>
 
-- Nachvollziehbare Workflows und Dokumentation
-- Lokale Werkzeuge mit klar benannten Betriebsgrenzen
-- Gestaltung und Prüfung technischer Oberflächen
+<p align="center">
+  Ruhrgutachten verbindet Kfz-Sachverständigenwesen mit sorgfältiger Dokumentation und praxistauglicher Automatisierung.
+</p>
 
-Dieses Profil-Repository enthält die GitHub-Profilseite. Projektzugriff und Verfügbarkeit richten sich nach der Sichtbarkeit des jeweiligen Repositorys.
+## Woran wir arbeiten
+
+- **Gutachtenpraxis** — Informationen und Arbeitsschritte so ordnen, dass Ergebnisse nachvollziehbar bleiben.
+- **Digitale Abläufe** — wiederkehrende Aufgaben mit passenden Werkzeugen übersichtlicher gestalten.
+- **Technische Entwicklung** — Anwendungen, Integrationen und Oberflächen für konkrete Arbeitsabläufe bauen.
+- **Prüfung und Dokumentation** — Funktionsstände, Grenzen und offene Punkte sichtbar halten.
+
+## Haltung
+
+Ein hilfreiches Werkzeug macht den nächsten Arbeitsschritt klarer. Es zeigt, woher Informationen kommen, was tatsächlich geprüft wurde und wo eine fachliche Entscheidung erforderlich bleibt.
+
+Dieses Profil bündelt ausgewählte Arbeit von Ruhrgutachten. Einige Repositories sind private Arbeitsprojekte und daher nicht öffentlich zugänglich.

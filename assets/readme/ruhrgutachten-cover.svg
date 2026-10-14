@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Ruhrgutachten — digitale Werkzeuge und Kfz-Sachverständigenwesen</title>
+  <desc id="desc">Stilisierte Fahrzeugkontur über technischen Messlinien, in dunklem Petrol mit ruhigen Sand- und Türkisakzenten.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b1e"/><stop offset="1" stop-color="#1a2b2d"/></linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ead9bd"/><stop offset="1" stop-color="#b3d2c9"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7eb8aa" stop-opacity=".25"/><stop offset="1" stop-color="#7eb8aa" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#91b6ae" stroke-opacity=".09" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1600" height="520" rx="28" fill="url(#bg)"/>
+  <circle cx="1220" cy="250" r="430" fill="url(#glow)"/>
+  <rect x="760" y="0" width="840" height="520" fill="url(#grid)"/>
+  <path d="M0 448 C300 412 534 489 814 446 S1320 408 1600 444V520H0Z" fill="#0c1416" opacity=".48"/>
+  <g fill="none" stroke="#d1b991" stroke-opacity=".68" stroke-width="1.5">
+    <path d="M950 340V168h472v172M990 168v-22m52 22v-12m52 12v-22m52 22v-12m52 12v-22m52 22v-12m52 12v-22m52 22v-12m52 12v-22"/>
+    <path d="M1450 185h-20m20 42h-12m12 42h-20m20 42h-12"/>
+    <circle cx="1190" cy="270" r="170" stroke="#8ebbb0" stroke-opacity=".42"/>
+    <circle cx="1190" cy="270" r="192" stroke="#8ebbb0" stroke-opacity=".18" stroke-dasharray="2 9"/>
+  </g>
+  <g fill="none" stroke="url(#metal)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M952 328l20-49c9-23 21-42 43-55l62-37c16-10 38-16 59-16h120c25 0 45 10 62 27l61 60c15 15 23 33 29 53l11 38c3 11-5 21-17 21h-29c-5-33-30-56-62-56s-56 23-61 56h-209c-5-33-30-56-62-56s-57 23-62 56h-18c-12 0-18-10-14-22Z"/>
+    <path d="M1032 252h356m-299-58-35 58m199-58 27 58m-116 1v60" stroke-opacity=".78"/>
+    <circle cx="1000" cy="368" r="31" fill="#152325"/><circle cx="1000" cy="368" r="12"/>
+    <circle cx="1348" cy="368" r="31" fill="#152325"/><circle cx="1348" cy="368" r="12"/>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="100" y="116" fill="#c7d8d2" font-size="19" letter-spacing="5" font-weight="600">RUHRGUTACHTEN  /  PRAXIS · TECHNIK · KLARHEIT</text>
+    <text x="96" y="236" fill="#f4efe5" font-size="72" font-weight="650" letter-spacing="-2">Klarheit im</text>
+    <text x="96" y="322" fill="#f4efe5" font-size="72" font-weight="650" letter-spacing="-2">Sachverständigenalltag.</text>
+    <path d="M100 366h92" stroke="#d2b892" stroke-width="4" stroke-linecap="round"/>
+    <text x="100" y="414" fill="#b8c9c3" font-size="23">Nachvollziehbare Gutachten. Digitale Werkzeuge. Sorgfältige Abläufe.</text>
+  </g>
+</svg>
